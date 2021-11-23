@@ -1,0 +1,14 @@
+ifnugradle/Person.java
+ ifnugradle.Person
+ifnugradle/PersonDaoImpl.java
+ ifnugradle.PersonDaoImpl
+com/mbokmar/models/MenuBebek.java
+ com.mbokmar.models.MenuBebek
+ifnugradle/PersonDao.java
+ ifnugradle.PersonDao
+ifnugradle/Main.java
+ ifnugradle.Main
+App.java
+ App
+com/mbokmar/models/MenuMbokmar.java
+ com.mbokmar.models.MenuMbokmar
